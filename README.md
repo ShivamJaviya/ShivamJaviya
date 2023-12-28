@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+
 <h1 align="center">Hi 👋, I'm Shivam Javiya 👨🏻‍💻</h1>
 <h3 align="center ">Tech enthusiast on a mission to revolutionize the digital world. Currently pursuing my Master's in Information Technology at DAIICT. Join me on this journey of innovation and discovery! #TechWizard #DigitalRevolution</h3>
 
