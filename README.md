@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shivam Javiya 👨🏻‍💻</h1>
-<h3 align="center">Tech enthusiast on a mission to revolutionize the digital world. Currently pursuing my Master's in Information Technology at DAIICT. Join me on this journey of innovation and discovery! #TechWizard #DigitalRevolution</h3>
+<h3 align="center">Tech enthusiast on a mission to revolutionize the digital world. Currently pursuing my Master's in Information Technology at DAIICT. Join me on this journey of innovation and discovery!s</h3>
 
 <p align="left"> <a href="https://twitter.com/shivam_javiya" target="blank"><img src="https://img.shields.io/twitter/follow/shivam_javiya?logo=twitter&style=for-the-badge" alt="shivam_javiya" /></a> </p>
 
