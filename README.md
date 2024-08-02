@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shivam Javiya 👨🏻‍💻</h1>
 <h3 align="center">Tech enthusiast on a mission to revolutionize the digital world. Currently pursuing my Master's in Information Technology at DAIICT. Join me on this journey of innovation and discovery !</h3>
 
-<p align="left"> <a href="https://twitter.com/shivam_javiya" target="blank"><img src="https://img.shields.io/twitter/follow/shivam_javiya?logo=twitter&style=for-the-badge" alt="shivam_javiya" /></a> </p>
+<p align="left"> <a href="https://shivamjaviya.netlify.app/" target="blank"><img src="https://img.shields.io/twitter/follow/shivam_javiya?logo=twitter&style=for-the-badge" alt="shivam_javiya" /></a> </p>
+
+- 👀 𝕞𝕦𝕤𝕥 𝕧𝕚𝕥𝕖 ℙ𝕠𝕣𝕥𝕗𝕠𝕝𝕚𝕠 𝕎𝕖𝕓𝕤𝕚𝕥𝕖 : **https://shivamjaviya.netlify.app/**
 
 - 🔭 I’m currently studying at [DAIICT](DAIICT)
 
