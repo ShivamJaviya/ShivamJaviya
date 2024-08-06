@@ -7,9 +7,7 @@
 
 - 🔭 I’m currently studying at [DAIICT](DAIICT)
 
-- 👯 I’m currently learning [DSA & DEVELOPMENT](DSA & DEVELOPMENT)
-
-- 👨‍💻 All of my projects are available at [https://github.com/ShivamJaviya](https://github.com/ShivamJaviya)
+- 👨‍💻 I’m currently learning [DSA & DEVELOPMENT](DSA & DEVELOPMENT) 
 
 - 📫 How to reach me **javiyashivam70@gmail.com**
 
