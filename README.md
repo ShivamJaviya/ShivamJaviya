@@ -4,8 +4,22 @@
   </a>
 </p>
 
+<h3 align="center">
+  <strong>
+   𝚃𝚎𝚌𝚑 𝚎𝚗𝚝𝚑𝚞𝚜𝚒𝚊𝚜𝚝 𝚘𝚗 𝚊 𝚖𝚒𝚜𝚜𝚒𝚘𝚗 𝚝𝚘 𝚛𝚎𝚟𝚘𝚕𝚞𝚝𝚒𝚘𝚗𝚒𝚣𝚎 𝚝𝚑𝚎 𝚍𝚒𝚐𝚒𝚝𝚊𝚕 𝚠𝚘𝚛𝚕𝚍. 𝙲𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚙𝚞𝚛𝚜𝚞𝚒𝚗𝚐 𝚖𝚢 𝙼𝚊𝚜𝚝𝚎𝚛'𝚜 𝚒𝚗 𝙸𝚗𝚏𝚘𝚛𝚖𝚊𝚝𝚒𝚘𝚗 𝚃𝚎𝚌𝚑𝚗𝚘𝚕𝚘𝚐𝚢 𝚊𝚝 𝙳𝙰𝙸𝙸𝙲𝚃. 𝙹𝚘𝚒𝚗 𝚖𝚎 𝚘𝚗 𝚝𝚑𝚒𝚜 𝚓𝚘𝚞𝚛𝚗𝚎𝚢 𝚘𝚏 𝚒𝚗𝚗𝚘𝚟𝚊𝚝𝚒𝚘𝚗 𝚊𝚗𝚍 𝚍𝚒𝚜𝚌𝚘𝚟𝚎𝚛𝚢!
+  </strong>
+</h3>
 
-<h3 align="center">Tech enthusiast on a mission to revolutionize the digital world. Currently pursuing my Master's in Information Technology at DAIICT. Join me on this journey of innovation and discovery !</h3>
+
+
+
+
+
+
+
+
+
+
 
 <p align="left"> <a href="https://shivamjaviya.netlify.app/" target="blank"><img src="https://img.shields.io/twitter/follow/shivam_javiya?logo=twitter&style=for-the-badge" alt="shivam_javiya" /></a> </p>
 
