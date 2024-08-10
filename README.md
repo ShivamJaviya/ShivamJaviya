@@ -1,4 +1,9 @@
-<h1 align="center">Hi 👋, I'm Shivam Javiya 👨🏻‍💻</h1>
+<p align="center">
+  <a href="https://github.com/shivamjaviya">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi%20%F0%9F%91%8B%2C%20Shivam%20Javiya%20👨‍💻&font=Arial%3Abold&center=true&width=650&height=120&color=87CEEB&vCenter=true&size=45">
+  </a>
+</p>
+
 
 <h3 align="center">Tech enthusiast on a mission to revolutionize the digital world. Currently pursuing my Master's in Information Technology at DAIICT. Join me on this journey of innovation and discovery !</h3>
 
