@@ -7,7 +7,7 @@
 
 🔭 I’m currently studying at [DAIICT](DAIICT)
 
-👨‍💻 I’m currently learning DSA & DEVELOPMENT.
+👨‍💻 Working On DSA & DEVELOPMENT.
 
 ⚡ Fun fact **Explore All**
 <br>
