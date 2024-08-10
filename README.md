@@ -3,15 +3,13 @@
 
 <p align="left"> <a href="https://shivamjaviya.netlify.app/" target="blank"><img src="https://img.shields.io/twitter/follow/shivam_javiya?logo=twitter&style=for-the-badge" alt="shivam_javiya" /></a> </p>
 
-- 👀 𝕔𝕙𝕖𝕔𝕜 𝕠𝕦𝕥 𝕞𝕖  [𝕡𝕠𝕣𝕥𝕗𝕠𝕝𝕚𝕠](https://shivamjaviya.netlify.app/)
+👀 𝕔𝕙𝕖𝕔𝕜 𝕠𝕦𝕥 𝕞𝕖  [𝕡𝕠𝕣𝕥𝕗𝕠𝕝𝕚𝕠](https://shivamjaviya.netlify.app/)
 
-- 🔭 I’m currently studying at [DAIICT](DAIICT)
+🔭 I’m currently studying at [DAIICT](DAIICT)
 
-- 👨‍💻 I’m currently learning DSA & DEVELOPMENT.
+👨‍💻 I’m currently learning DSA & DEVELOPMENT.
 
-- 📫 How to reach me **javiyashivam70@gmail.com**
-
-- ⚡ Fun fact **Explore All**
+⚡ Fun fact **Explore All**
 <br>
 <br>
 
