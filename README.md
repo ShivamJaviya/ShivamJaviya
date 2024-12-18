@@ -40,7 +40,7 @@
 <br>
 <br>
 <p margin="3px" padding="3px">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivamjaviya&theme=react&hide_border=true" alt="shivamjaviya" /> 
+ 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamjaviya&theme=react&show_icons=true&hide_border=true&layout=compact" alt="shivamjaviya's Top Languages" />
 </p>
 
